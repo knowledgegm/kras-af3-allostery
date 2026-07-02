@@ -1,0 +1,12 @@
+component,col,cat,AUC,lo,hi
+"Mutated-residue PAE
+(LOCAL signal)",mut_to_RAF_PAE,local,0.542,0.393,0.683
+Min interface PAE,pae_min,ifacePAE,0.7,0.576,0.816
+Interface PAE energy,pae_energy,ifacePAE,0.737,0.613,0.85
+Mean interface PAE,pae_mean,ifacePAE,0.737,0.612,0.849
+10th-pctile interface PAE,pae_p10,ifacePAE,0.754,0.635,0.859
+"ipTM, single model",iptm0,conf,0.731,0.625,0.825
+"ipTM, 5-model avg",iptm5,conf,0.788,0.672,0.893
+"All components combined
+(LOO-CV)",combined,combined,0.736,,
+TM-iface (Eq. 1),tm_max,ifacePAE,0.697,0.576,0.818

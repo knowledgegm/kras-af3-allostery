@@ -1,0 +1,9 @@
+mutation,iptm5,iface_PAE5,P_disruptor,region,verdict
+G13C,0.89,1.67,0.8322410877272451,P-loop,predicted DISRUPTOR
+A146V,0.892,1.72,0.7606271021159556,distal (nucleotide),predicted DISRUPTOR
+Q61K,0.892,1.77,0.7606271021159556,switch II,predicted DISRUPTOR
+A146T,0.894,1.63,0.6705441147683067,distal (nucleotide),predicted DISRUPTOR
+G12S,0.9,1.58,0.34846942917123047,P-loop,predicted no effect
+G12A,0.9,1.59,0.34846942917123047,P-loop,predicted no effect
+K117N,0.9,1.59,0.34846942917123047,distal (nucleotide),predicted no effect
+D119N,0.904,1.56,0.17994486968177914,distal (nucleotide),predicted no effect

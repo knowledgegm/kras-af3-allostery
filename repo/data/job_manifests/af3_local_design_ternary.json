@@ -1,0 +1,46 @@
+{
+  "name": "kras_raf_design_ternary",
+  "modelSeeds": [
+    1,
+    2,
+    3
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK"
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL"
+      }
+    },
+    {
+      "ligand": {
+        "id": "C",
+        "ccdCodes": [
+          "GTP"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": "D",
+        "ccdCodes": [
+          "MG"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": "E",
+        "smiles": "CC(C(=O)O)c1ccc(Oc2ccc3cc(C(N)=O)ccc3c2)cc1"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 2
+}

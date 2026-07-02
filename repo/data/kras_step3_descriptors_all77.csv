@@ -1,0 +1,78 @@
+mutation,ddG,iface,region,iptm,ptm,cp_iptm_AB,iface_PAE,n_contacts,fraction_disordered,category
+A146F,1.11,distal,Other,0.86,0.9,0.81,2.772222222222222,27,0.0,distal_disruptor
+I21D,1.165,distal,Other,0.9,0.93,0.87,1.5185185185185182,27,0.0,distal_disruptor
+L19I,-0.154,distal,Other,0.91,0.93,0.87,1.5724137931034485,29,0.0,distal_nondisruptor
+L23R,-0.182,distal,Other,0.9,0.93,0.86,1.5892857142857142,28,0.0,distal_nondisruptor
+Q22K,-0.117,distal,Other,0.91,0.93,0.87,1.5379310344827584,29,0.0,distal_nondisruptor
+R41A,0.156,distal,Other,0.91,0.93,0.87,1.457142857142857,28,0.0,distal_nondisruptor
+R41D,1.19,distal,Other,0.9,0.93,0.86,1.581481481481482,27,0.0,distal_disruptor
+T20C,0.169,distal,Other,0.91,0.93,0.88,1.4793103448275862,29,0.0,distal_nondisruptor
+D54K,0.996,distal,Other,0.9,0.93,0.86,1.6642857142857144,28,0.0,distal_disruptor
+I21K,0.916,distal,Other,0.89,0.92,0.84,1.7403846153846152,26,0.0,distal_disruptor
+I93H,1.061,distal,Other,0.9,0.92,0.85,1.6910714285714288,28,0.0,distal_disruptor
+L53D,1.031,distal,Other,0.91,0.93,0.87,1.5035714285714286,28,0.0,distal_disruptor
+Q43C,0.107,distal,Other,0.9,0.93,0.86,1.8,29,0.0,distal_nondisruptor
+T58R,1.089,distal,Other,0.9,0.92,0.86,1.5655172413793106,29,0.0,distal_disruptor
+V44R,-0.099,distal,Other,0.9,0.93,0.86,1.4962962962962962,27,0.0,distal_nondisruptor
+V45M,-0.147,distal,Other,0.91,0.93,0.87,1.5672413793103452,29,0.0,distal_nondisruptor
+C51V,-0.17,distal,Other,0.91,0.93,0.87,1.4796296296296296,27,0.0,distal_nondisruptor
+I163H,0.823,distal,Other,0.9,0.92,0.86,1.5655172413793106,29,0.0,distal_disruptor
+I55A,0.162,distal,Other,0.91,0.93,0.87,1.4844827586206895,29,0.0,distal_nondisruptor
+L52A,-0.138,distal,Other,0.91,0.93,0.87,1.4706896551724138,29,0.0,distal_nondisruptor
+L56Y,0.192,distal,Other,0.92,0.94,0.89,1.3896551724137933,29,0.0,distal_nondisruptor
+L79H,0.879,distal,Other,0.91,0.93,0.87,1.4982142857142857,28,0.0,distal_disruptor
+N86W,0.843,distal,Other,0.9,0.93,0.87,1.5517241379310347,29,0.0,distal_disruptor
+P140V,0.744,distal,Other,0.9,0.93,0.86,1.5724137931034483,29,0.0,distal_disruptor
+R41E,0.859,distal,Other,0.9,0.93,0.86,1.6160714285714286,28,0.0,distal_disruptor
+T50V,-0.135,distal,Other,0.9,0.92,0.86,1.6125000000000003,28,0.0,distal_nondisruptor
+C80L,-0.098,distal,Other,0.91,0.93,0.87,1.529310344827586,29,0.0,distal_nondisruptor
+F141E,0.694,distal,Other,0.9,0.92,0.86,1.6310344827586207,29,0.0,distal_disruptor
+F78V,0.16,distal,Other,0.91,0.93,0.87,1.4866666666666668,30,0.0,distal_nondisruptor
+L79I,-0.168,distal,Other,0.9,0.93,0.85,1.7241379310344827,29,0.0,distal_nondisruptor
+N86I,0.715,distal,Other,0.9,0.93,0.86,1.5803571428571428,28,0.0,distal_disruptor
+T58L,0.116,distal,Other,0.9,0.92,0.85,1.7586206896551724,29,0.0,distal_nondisruptor
+V7R,0.738,distal,Other,0.9,0.93,0.86,1.5620689655172413,29,0.0,distal_disruptor
+D54I,1.119,distal,Other,0.9,0.92,0.85,1.7750000000000001,28,0.0,distal_disruptor
+D57G,3.07,distal,Other,0.89,0.92,0.85,1.8586206896551725,29,0.0,distal_disruptor
+G77A,-0.217,distal,Other,0.91,0.93,0.87,1.5120689655172412,29,0.0,distal_nondisruptor
+H95R,-0.168,distal,Other,0.9,0.93,0.87,1.5625,28,0.0,distal_nondisruptor
+I55E,2.52,distal,Other,0.9,0.93,0.86,1.5814814814814813,27,0.0,distal_disruptor
+L56K,0.873,distal,Other,0.91,0.93,0.87,1.5224137931034483,29,0.0,distal_disruptor
+M111K,0.772,distal,Other,0.91,0.93,0.87,1.5206896551724138,29,0.0,distal_disruptor
+S17N,3.038,distal,P-loop,0.9,0.93,0.86,1.6535714285714287,28,0.0,distal_disruptor
+T2D,-0.204,distal,Other,0.9,0.93,0.86,1.6017857142857146,28,0.0,distal_nondisruptor
+V125L,0.095,distal,Other,0.9,0.93,0.86,1.582142857142857,28,0.0,distal_nondisruptor
+WT,,WT,WT,0.9,0.93,0.87,1.501851851851852,27,0.0,WT
+Y40R,3.161,interface,Switch I,0.86,0.9,0.76,2.9379999999999997,25,0.0,interface_disruptor
+S39P,2.583,interface,Switch I,0.81,0.85,0.6,6.647499999999999,20,0.0,interface_disruptor
+A11C,-0.14,distal,P-loop,0.91,0.93,0.88,1.4672413793103447,29,0.0,distal_nondisruptor
+A59I,1.287,distal,Other,0.9,0.92,0.85,1.7965517241379312,29,0.0,distal_disruptor
+D38R,2.568,interface,Switch I,0.86,0.9,0.79,2.9708333333333328,24,0.0,interface_disruptor
+D57R,2.799,distal,Other,0.79,0.83,0.61,6.4,26,0.0,distal_disruptor
+I36P,2.435,interface,Switch I,0.89,0.92,0.85,1.863793103448276,29,0.0,interface_disruptor
+L6I,-0.185,distal,Other,0.9,0.93,0.87,1.5344827586206897,29,0.0,distal_nondisruptor
+T20F,2.71,distal,Other,0.81,0.86,0.7,4.025,24,0.0,distal_disruptor
+T20W,2.531,distal,Other,0.84,0.88,0.75,2.9420000000000006,25,0.0,distal_disruptor
+T35C,2.492,interface,Switch I,0.88,0.92,0.84,1.9892857142857143,28,0.0,interface_disruptor
+V7A,0.179,distal,Other,0.9,0.93,0.86,1.6017857142857144,28,0.0,distal_nondisruptor
+D33K,1.759,interface,Switch I,0.91,0.93,0.88,1.4730769230769227,26,0.0,interface_disruptor
+E37R,2.396,interface,Switch I,0.9,0.93,0.86,1.6327586206896552,29,0.0,interface_disruptor
+F28D,1.546,interface,Switch I,0.91,0.93,0.87,1.7392857142857143,28,0.0,interface_disruptor
+G12C,0.04,distal,P-loop,0.9,0.93,0.86,1.6222222222222227,27,0.0,distal_nondisruptor
+G13D,-0.172,distal,P-loop,0.9,0.93,0.86,1.6611111111111114,27,0.0,distal_nondisruptor
+I55R,2.457,distal,Other,0.89,0.92,0.84,1.6380000000000001,25,0.0,distal_disruptor
+K16L,2.027,distal,P-loop,0.91,0.94,0.88,1.4392857142857143,28,0.0,distal_disruptor
+S17R,2.193,distal,P-loop,0.89,0.92,0.85,1.8203703703703704,27,0.0,distal_disruptor
+V9C,0.171,distal,Other,0.9,0.93,0.86,1.5844827586206898,29,0.0,distal_nondisruptor
+I24C,0.135,distal,Other,0.91,0.93,0.88,1.4672413793103452,29,0.0,distal_nondisruptor
+K42A,0.089,distal,Other,0.91,0.93,0.87,1.553448275862069,29,0.0,distal_nondisruptor
+A18C,0.127,distal,Other,0.9,0.92,0.86,1.6758620689655173,29,0.0,distal_nondisruptor
+A18F,1.902,distal,Other,0.87,0.91,0.83,2.269230769230769,26,0.0,distal_disruptor
+A18L,1.513,distal,Other,0.9,0.92,0.86,1.7620689655172415,29,0.0,distal_disruptor
+A59L,1.295,distal,Other,0.9,0.92,0.86,1.7310344827586206,29,0.0,distal_disruptor
+K16S,0.133,distal,P-loop,0.9,0.93,0.87,1.5683333333333331,30,0.0,distal_nondisruptor
+K16V,1.822,distal,P-loop,0.9,0.93,0.87,1.6241379310344828,29,0.0,distal_disruptor
+P34D,1.435,interface,Switch I,0.9,0.92,0.86,1.6916666666666669,30,0.0,interface_disruptor
+Q25P,1.306,interface,Switch I,0.81,0.87,0.72,4.34074074074074,27,0.0,interface_disruptor
+T58K,1.118,distal,Other,0.91,0.93,0.87,1.5362068965517244,29,0.0,distal_disruptor
+V14G,-0.132,distal,P-loop,0.91,0.93,0.88,1.443103448275862,29,0.0,distal_nondisruptor

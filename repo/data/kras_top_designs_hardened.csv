@@ -1,0 +1,7 @@
+smiles,vina,vinardo,QED,SA,MW,medchem,consensus_rank
+CC(C(=O)O)c1ccc(Oc2ccc3cc(C(N)=O)ccc3c2)cc1,-7.67,-6.15,0.74,2.4,335,clean,1.0
+CC(C(=O)O)c1ccc(Oc2ccc3cc(C(=O)O)ccc3c2)cc1,-7.47,-5.47,0.72,2.4,336,clean,2.5
+CC(C(=O)O)c1ccc(Oc2ccccc2-c2ccccc2N)cc1,-7.52,-4.93,0.65,2.4,333,aniline,3.5
+CC(C(=O)O)c1ccc(Oc2ccc(-c3ccccc3N)cc2)cc1,-7.4,-5.12,0.65,2.3,333,aniline,4.5
+CC(C(=O)O)c1ccc(Oc2ccc(C(N)=O)cc2)cc1,-7.33,-5.4,0.88,2.2,285,clean,4.5
+CC(C(=O)O)c1ccc(Oc2ccccc2-c2ccncc2)cc1,-7.44,-4.85,0.74,2.4,319,clean,5.0

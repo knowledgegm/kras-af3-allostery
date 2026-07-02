@@ -1,0 +1,290 @@
+[
+ {
+  "name": "clin_A146T",
+  "modelSeeds": [
+   "41939071"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSTKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ },
+ {
+  "name": "clin_A146V",
+  "modelSeeds": [
+   "89542916"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSVKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ },
+ {
+  "name": "clin_K117N",
+  "modelSeeds": [
+   "83045210"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNNCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ },
+ {
+  "name": "clin_D119N",
+  "modelSeeds": [
+   "27505051"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCNLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ },
+ {
+  "name": "clin_G12A",
+  "modelSeeds": [
+   "59654541"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGAAGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ },
+ {
+  "name": "clin_G12S",
+  "modelSeeds": [
+   "91056775"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGASGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ },
+ {
+  "name": "clin_G13C",
+  "modelSeeds": [
+   "73626388"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGAGCVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ },
+ {
+  "name": "clin_Q61K",
+  "modelSeeds": [
+   "93982757"
+  ],
+  "sequences": [
+   {
+    "proteinChain": {
+     "sequence": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGKEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQGVDDAFYTLVREIRKHKEK",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "proteinChain": {
+     "sequence": "NTIRVFLPNKQRTVVNVRNGMSLHDCLMKALKVRGLQPECCAVFRLLHEHKGKKARLDWNTDAASLIGEELQVDFL",
+     "count": 1,
+     "useStructureTemplate": true
+    }
+   },
+   {
+    "ligand": {
+     "ligand": "CCD_GTP",
+     "count": 1
+    }
+   },
+   {
+    "ion": {
+     "ion": "MG",
+     "count": 1
+    }
+   }
+  ],
+  "dialect": "alphafoldserver",
+  "version": 3
+ }
+]
