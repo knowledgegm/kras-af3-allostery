@@ -111,17 +111,3 @@ prediction) are included as data and, where a standalone script exists
 (`dock_into_kras_pocket.py`, `run_admet.py`), as code; these are
 explicitly labeled hypothesis-generating in the paper and are not required
 to reproduce the central result.
-
-## Citation
-
-If you use this code or data, please cite:
-
-```
-[Author names], "AlphaFold 3 Interface Confidence Detects Distal Allosteric
-Modulation of KRAS-RAF1 Binding That Structure-Based Energy Functions Miss,"
-IEEE BIBM 2026 (submitted).
-```
-
-## License
-
-[Choose a license before publishing, e.g., MIT for code, CC-BY-4.0 for data.]
